@@ -12,5 +12,5 @@ def Ninety_Nine_Bottles_of_Beer():
             print "take one down, pass it around," +  str(b-1) + " bottles of beer on the wall"
         b = b - 1
         
-
+Ninety_Nine_Bottles_of_Beer()
     
